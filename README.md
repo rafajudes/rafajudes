@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is rafa</h2>
+<h2 align="left">about me</h2>
+
+<h2🌐 HTML e CSS
+☕ Aprendendo Java
+🚀 Em constante evolução<h2>
 
 
 
