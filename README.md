@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌐 HTML e CSS<br>☕ Aprendendo Java<br>🚀 Em constante evolução</p>
+<p align="left">- HTML e CSS<br>- Aprendendo Java<br>- Em constante evolução</p>
 
 ###
 
