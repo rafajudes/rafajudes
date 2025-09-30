@@ -43,7 +43,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rafajudes/rafajudes/output/snake.svg">
+
 
 ###
 
