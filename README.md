@@ -1,11 +1,8 @@
-<h2 align="left">about me</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<p 🌐 HTML e CSS <br
-☕ Aprendendo Java <br
-🚀 Em constante evolução<p>
+###
 
-
-
+<p align="left">🌐 HTML e CSS<br>☕ Aprendendo Java<br>🚀 Em constante evolução</p>
 
 ###
 
@@ -56,4 +53,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafajudes/rafajudes/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafajudes/rafajudes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rafajudes/rafajudes/output/pacman-contribution-graph.svg">
+</picture>
+
+###
   
