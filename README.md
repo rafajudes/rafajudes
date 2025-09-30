@@ -1,8 +1,8 @@
 <h2 align="left">about me</h2>
 
-<h2🌐 HTML e CSS
-☕ Aprendendo Java
-🚀 Em constante evolução<h2>
+<h2 🌐 HTML e CSS<h2>
+<h2 ☕ Aprendendo Java<h2>
+<h2 🚀 Em constante evolução<h2>
 
 
 
